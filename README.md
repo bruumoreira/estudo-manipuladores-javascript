@@ -21,7 +21,7 @@ Nesse repositório foi possível aprender e colocar em prática as funcionalidad
 
 ## Tecnologias
 - JavaScript
-    -Manipuladores
+    - Manipuladores
   
 ## Colaboradores
 Bruna Stefani Moreira Torres Francisco - <a href="https://www.linkedin.com/in/bruna-moreira-torres-francisco/" target="_blank">LinkedIn</a>
